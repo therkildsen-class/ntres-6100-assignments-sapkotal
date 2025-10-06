@@ -1,6 +1,5 @@
 ---
 title: "NTRES 6100: Assignment #5"
-Author: "Lok Mani Sapkota"
 format: gfm
 editor: visual
 execute: 
